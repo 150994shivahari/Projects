@@ -5,4 +5,5 @@
 3. CNN - Fashion Image Classification
 4. Fake News Classifier using LSTM
 5. ASEM Internation Conference Recommedor System for Demad Prediction
+6. Project - Data Mining (Customer Classification using ML)
 
