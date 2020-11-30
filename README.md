@@ -6,5 +6,6 @@
 4. Fake News Classifier using LSTM
 5. ASEM Internation Conference Recommedor System for Demad Prediction
 6. House Price Prediction Using Pytorch
-7. Project - Data Mining (Customer Classification using ML)
+7. Predictive Keyboard using LSTM RNN
+8. Project - Data Mining (Customer Classification using ML)
 
